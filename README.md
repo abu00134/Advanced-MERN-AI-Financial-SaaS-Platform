@@ -1,15 +1,7 @@
-# 🌟 Advanced MERN AI Finance SaaS Platform - Finora
+# 🌟 Advanced MERN AI Finance SaaS Platform - Beyung
 
 > This code, whether in parts or whole, is licensed for commercial use **only with a license**. It is **free for personal use**.
-> 👉 [Click here to obtain license](https://techwithemma.gumroad.com/l/huytmd) and 👉 [here to learn more](https://github.com/TechWithEmmaYT/Advanced-MERN-AI-Financial-SaaS-Platform/blob/main/TECHWITHEMMA-LICENSE.md)
 
-## ❤️ Support the Channel
-
-Love this project? Here’s how you can support:
-
-* ☕ [Buy Me a Coffee](https://buymeacoffee.com/techwithemmaofficial)
-* 🌟 Star this repo
-* 🎥 [Subscribe on YouTube](https://tinyurl.com/subcribe-to-techwithEmma)
 
 ---
 
@@ -31,31 +23,7 @@ Love this project? Here’s how you can support:
 * ➕ Duplicate Transactions
 * 🧑‍💼 Upload Profile Photo (Cloudinary)
 * 🌐 Built with MERN Stack (Node.js, MongoDB, React, TypeScript)
-
-- 💳 [Premium] Upgrades via Stripe — Free Trial, Monthly & Yearly Plans, Easy Plan Switching 👉 [Get It Here](https://techwithemma.gumroad.com/l/gasvc)
-
-
-
-## 🔧 How to Use This Project
-
-### 📺 Step 1: Watch the Complete Full Course on YouTube
-
-> Learn how it all works, including the folder structure, integration, AI config, and more.
-> 👉 [Watch the Course](https://www.youtube.com/watch?v=2S7Y2wewF6I)
-
-
-
-### 💻 Step 2: Run It Locally, Setup Video, Live Preview
-
-> Want to run this project on your own machine? We've got you covered:
-👉 [Setup & Live Preview Link](https://techwithemma.gumroad.com/l/nphhyz)
-
-
-
-### 🚀 [Step 3]: Get the Extended Version — Stripe Payment Video (Free Trial), Full Source Code, Deployment & More.
-
-This is the missing piece — the Stripe payment that powers your SaaS.
-👉 [Get the Extended Version](https://techwithemma.gumroad.com/l/gasvc)
+)
 
 * Free Trial + Monthly & Yearly Plan
 * Switch between Monthly ↔️ Yearly Plan
